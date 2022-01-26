@@ -4,3 +4,5 @@ Amd i am learning  git
 this is the third commit to be done
 
 now i am crating an another commit to check my self for clarification
+
+And it is time to use branches
