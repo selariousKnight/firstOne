@@ -1,2 +1,4 @@
 And i have confusing again and again 
 Amd i am learning  git
+
+this is the third commit to be done
